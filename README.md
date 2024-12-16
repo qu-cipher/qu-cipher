@@ -14,7 +14,7 @@ I am a young Software & Web developer and still learning. I have coded in Java, 
 - Git
 
 ## 💡 Currently working on
-- ThePeott Telegram Mini-app 
+- #### ThePeott Telegram Mini-app 
 
 ## 🔗 Links
 * [Telegram](https://t.me/QuantumCipherr)
