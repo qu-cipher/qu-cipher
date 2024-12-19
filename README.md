@@ -13,8 +13,12 @@ I am a young Software & Web developer and still learning. I have coded in Java, 
 - Docker
 - Git
 
-## 💡 Currently working on
-- #### ThePeott Telegram Mini-app 
+## Projects
+| **Project Name.** 	|                                       **Description.**                                      	|         **Status.**         	| **Done?** 	| **Repo.** 	|
+|:-----------------:	|:-------------------------------------------------------------------------------------------:	|:---------------------------:	|:---------:	|:---------:	|
+|      ThePeott     	|                 ThePeott is a mini game based on Telegram and TON blockchain                	| Started - Under development 	|     ✗     	|     *     	|
+|      ₁₂Carbon     	| Carbon is a cryptocurrency donation platform allowing users to receive donations in crypto  	|       Not started yet       	|     ✗     	|     *     	|
+|         *         	|                                              *                                              	|              *              	|     *     	|     *     	|
 
 ## 🔗 Links
 * [Telegram](https://t.me/QuantumCipherr)
