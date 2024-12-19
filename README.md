@@ -1,9 +1,9 @@
 
 # Hi, I'm Ali! 👋
-- Known as QuantumCipher mainly.
+- Known as QuantumCipher too.
 
 ## 🚀 About Me
-I am a young Software & Web developer and still learning. I have coded in Java, Kotlin, Javascript & Typescript, Python, Go, C#, C/C++ (as I remember); Mainly in Java (SpringBoot) & VueJS: The worst and best combo.
+I am a young Software & Web developer and still learning. I have coded in Java, Kotlin, Javascript & Typescript, Python, Go, C#, C/C++ (as far as I remember); Mainly in Java (SpringBoot) & VueJS: The worst and best combo.
 
 
 ## 🛠 Skills
