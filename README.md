@@ -21,9 +21,3 @@ I am a young Software & Web developer and still learning. I have coded in Java, 
 |      Uranium      	|                      Uranium is a chatting application based on SpringBoot & VueJS                     	|    Postponed     	|     ✗     	|                       *                      	|
 |      QServer      	| QServer is a open-source simple web server implementation which you can handle HTTP requests with it.  	|  Updates needed  	|    ✓/✗    	| [Repo](https://github.com/qu-cipher/QServer) 	|
 |         *         	|                                                    *                                                   	|         *        	|     *     	|                       *                      	|
-
-## 🔗 Links
-* [Telegram](https://t.me/QuantumCipherr)
-* [Twitter](https://x.com/QuantumCipherr)
-* [LinkedIn](https://www.linkedin.com/in/ali-salmanian-43b12525a/)
-* [Instagram](https://instagram.com/qu.cipher)
