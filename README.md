@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I am a young Software & Web developer and still learning. I have coded in Java, Kotlin, Javascript & Typescript, Python, Go, C#, C/C++ (as far as I remember); Mainly in Java (SpringBoot) & VueJS: The worst and best combo.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=4500&pause=1000&color=00F7AF&center=true&vCenter=true&width=500&height=120&lines=Let's+connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4500&pause=1000&color=00F7AF&center=true&vCenter=true&width=500&height=120&lines=Let's+connect!;Check+out+my+website!)](https://git.io/typing-svg)
 
 ## 🛠 Skills
 #### My Main Skills:
