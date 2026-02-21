@@ -3,7 +3,7 @@
 ## — Da hell is him?
 * Known as `Quantum`, `QuantumCipher`, `Q1tum`.
 * Born to code Softwares, Middlewares, Extensions, etc.
-* Given birth to explore new things out there
+* Given birth to explore new things out there.
 * Turns ☕ into production.
 
 ## — What he has done?
