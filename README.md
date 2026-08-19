@@ -1,10 +1,11 @@
-## — Who's this? 
-## + This is him, The Q.
-## — Da hell is him?
-* Known as `Quantum`, `QuantumCipher`, `Q1tum`.
-* Born to code Softwares, Middlewares, Extensions, etc.
-* Given birth to explore new things out there.
-* Turns ☕ into production.
+```bash
+ ██████╗  ██╗     
+██╔═══██╗███║     * Known as `Quantum`, `QuantumCipher`, `Q1tum`
+██║   ██║╚██║     * Born to code Softwares, Middlewares, Extensions, etc
+██║▄▄ ██║ ██║     * Given birth to explore new things out there
+╚██████╔╝ ██║     * Turns Chaei ☕ into production
+ ╚══▀▀═╝  ╚═╝     
+ ```
 
 ## — What he has done?
 |         **Field**        |  **P.L.** |                               **Repo.**                              |                                            **Desc.**                                            |                     **Tech.**                     |
