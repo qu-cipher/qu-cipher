@@ -2,9 +2,9 @@
  ██████╗  ██╗     
 ██╔═══██╗███║     * Known as `Quantum`, `QuantumCipher`, `Q1tum`
 ██║   ██║╚██║     * Born to code Softwares, Middlewares, Extensions, etc
-██║▄▄ ██║ ██║     * Given birth to explore new things out there
-╚██████╔╝ ██║     * Turns Chaei ☕ into production
- ╚══▀▀═╝  ╚═╝     * Wanna connect? Check below the table!
+██║▄▄ ██║ ██║     * Turns Chaei ☕ into production
+╚██████╔╝ ██║     * Wanna connect? Check below the table!
+ ╚══▀▀═╝  ╚═╝     
  ```
 
 |         **Field**        |  **P.L.** |                               **Repo.**                              |                                            **Desc.**                                            |                     **Tech.**                     |
