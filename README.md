@@ -4,7 +4,7 @@
 ██║   ██║╚██║     * Born to code Softwares, Middlewares, Extensions, etc
 ██║▄▄ ██║ ██║     * Given birth to explore new things out there
 ╚██████╔╝ ██║     * Turns Chaei ☕ into production
- ╚══▀▀═╝  ╚═╝     
+ ╚══▀▀═╝  ╚═╝     * Wanna connect? Check below the table!
  ```
 
 |         **Field**        |  **P.L.** |                               **Repo.**                              |                                            **Desc.**                                            |                     **Tech.**                     |
@@ -27,8 +27,6 @@
 |         **Other**        |   *****   |                                 *****                                |                                              *****                                              |                       *****                       |
 |                          |   _Java_  |            [QServer](https://github.com/qu-cipher/QServer)           |                         QServer, a simple HTTP server router and handler                        |                Pure java & java.net               |
 |                          |   _Java_  |    [JVoice-Recorder](https://github.com/qu-cipher/J-VoiceRecorder)   |                    A simple console-app for recording sounds from microphone                    |                     Pure java                     |
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4500&pause=1000&color=00F7AF&center=true&vCenter=true&width=500&height=120&lines=Let's+connect!;Check+out+my+website!)](https://git.io/typing-svg)
 
 ```bash
  ██████╗ ██████╗    
