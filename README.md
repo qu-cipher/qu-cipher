@@ -30,10 +30,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4500&pause=1000&color=00F7AF&center=true&vCenter=true&width=500&height=120&lines=Let's+connect!;Check+out+my+website!)](https://git.io/typing-svg)
 
+```bash
  ██████╗ ██████╗    
 ██╔════╝██╔═══██╗       * 
 ██║     ██║   ██║       * <a href="https://t.me/q1tumc">Telegram</a>
 ██║     ██║   ██║       * <a href="https://x.com/quantumcipherr">Twitter/X</a>
 ╚██████╗╚██████╔╝██╗    *
  ╚═════╝ ╚═════╝ ╚═╝
-
+```
