@@ -7,7 +7,6 @@
  ╚══▀▀═╝  ╚═╝     
  ```
 
-## — What he has done?
 |         **Field**        |  **P.L.** |                               **Repo.**                              |                                            **Desc.**                                            |                     **Tech.**                     |
 |:------------------------:|:---------:|:--------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:-------------------------------------------------:|
 |       **Software**       |   *****   |                                 *****                                |                                              *****                                              |                       *****                       |
@@ -29,7 +28,6 @@
 |                          |   _Java_  |            [QServer](https://github.com/qu-cipher/QServer)           |                         QServer, a simple HTTP server router and handler                        |                Pure java & java.net               |
 |                          |   _Java_  |    [JVoice-Recorder](https://github.com/qu-cipher/J-VoiceRecorder)   |                    A simple console-app for recording sounds from microphone                    |                     Pure java                     |
 
-## Stop this BS, 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4500&pause=1000&color=00F7AF&center=true&vCenter=true&width=500&height=120&lines=Let's+connect!;Check+out+my+website!)](https://git.io/typing-svg)
 
 * **Telegram**: [@Q1tumC](https://t.me/Q1tumC)
