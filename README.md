@@ -33,9 +33,8 @@
 ```bash
  ██████╗ ██████╗    
 ██╔════╝██╔═══██╗       * 
-██║     ██║   ██║       * ```html<a href="https://t.me/q1tumc">Telegram</a>```
-██║     ██║   ██║       * ```html<a href="https://x.com/quantumcipherr">Twitter/X</a>```
+██║     ██║   ██║       * Telegram  : t.me/q1tumc
+██║     ██║   ██║       * Twitter/X : x.com/quantumcipherr
 ╚██████╗╚██████╔╝██╗    *
- ╚═════╝ ╚═════╝ ╚═╝
-                    
+ ╚═════╝ ╚═════╝ ╚═╝  
 ```
